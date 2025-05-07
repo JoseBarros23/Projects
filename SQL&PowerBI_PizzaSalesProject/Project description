@@ -1,0 +1,25 @@
+# 🍕 Pizza Sales Analysis Project / Proyecto de Análisis de Ventas de Pizzas
+
+## 🇬🇧 English Version
+
+This SQL and Power BI project aims to analyze the performance of a pizza restaurant based on its historical sales data.  
+The main goal is to uncover meaningful insights that can help the business make informed decisions, optimize operations, and improve overall profitability.
+
+The project is divided into two main folders:
+- **Dataset**: Contains the raw data used for the analysis.
+- **Queries**: Includes the SQL queries used to extract and process the information.
+
+The final outcome is an interactive Power BI dashboard that presents key metrics such as total revenue, sales by category, order volume over time, and customer behavior.
+
+---
+
+## 🇪🇸 Versión en Español
+
+Este proyecto de SQL y Power BI tiene como objetivo analizar el rendimiento de un restaurante de pizzas a partir de sus datos históricos de ventas.  
+El propósito principal es descubrir información relevante que ayude al negocio a tomar decisiones informadas, optimizar sus operaciones y mejorar su rentabilidad general.
+
+El proyecto está dividido en dos carpetas principales:
+- **Dataset**: Contiene los datos crudos utilizados para el análisis.
+- **Queries**: Incluye las consultas SQL usadas para extraer y procesar la información.
+
+El resultado final es un panel interactivo en Power BI que presenta métricas clave como ingresos totales, ventas por categoría, volumen de pedidos en el tiempo y comportamiento de los clientes.
