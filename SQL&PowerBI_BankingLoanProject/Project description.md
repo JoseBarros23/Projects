@@ -10,4 +10,4 @@ This project is divided into two main folders:
 
 2. **Queries**: This folder includes SQL queries designed to analyze and generate reports based on the loan data. These queries will help us calculate important metrics, track loan performance, and provide insights into the overall health of the loan portfolio.
 
-And here you can find a [Power BI visualization](https://app.powerbi.com/view?r=eyJrIjoiNzI2MTU5MWEtYzgwMC00MzJjLTlmMTUtMDFmMTk4NWZmZjBiIiwidCI6ImY1N2E1OTQ5LTM3MzgtNDFlZi1hODZlLTAwNDkwYzA4Y2NiNSIsImMiOjR9) of the metrics calculated with SQL
+And here you can find a [Power BI visualization](https://app.powerbi.com/view?r=eyJrIjoiNzI2MTU5MWEtYzgwMC00MzJjLTlmMTUtMDFmMTk4NWZmZjBiIiwidCI6ImY1N2E1OTQ5LTM3MzgtNDFlZi1hODZlLTAwNDkwYzA4Y2NiNSIsImMiOjR9&pageName=ReportSectione94068ca6c91429eb78c) of the metrics calculated with SQL
