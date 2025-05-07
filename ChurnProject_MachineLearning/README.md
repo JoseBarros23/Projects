@@ -14,6 +14,6 @@ Este proyecto se centra en analizar y predecir la pérdida de clientes en el sec
 
 ## 📁 Acceder a los Conjuntos de Datos
 
-Para acceder a los conjuntos de datos utilizados en este proyecto, visita esta [carpeta de Google Drive]([https://drive.google.com/drive/folders/1zO58xifGPN9DiHGUS69Z4rsDsdvzIOBZ?usp=drive_link]).
+Para acceder a los conjuntos de datos utilizados en este proyecto, visita esta [Carpeta de Google Drive](https://drive.google.com/drive/folders/1zO58xifGPN9DiHGUS69Z4rsDsdvzIOBZ?usp=drive_link).
 
 
