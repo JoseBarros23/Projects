@@ -2,9 +2,9 @@
 
 ## 🇪🇸 Éste proyecto se encuentra en mi otro repositorio: https://github.com/JoseBarros23/CNN-Neural-Network-for-Alzheimer-Detection
 ## 🇬🇧 You can find this project in my other repository:  https://github.com/JoseBarros23/CNN-Neural-Network-for-Alzheimer-Detection
-this CNN in a real-life scenario** according to the **confidence level** obtained in the diagnostic.
 
 Gracias
 Thank you!
+
 
 
